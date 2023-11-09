@@ -2,9 +2,13 @@
 
 Bem-vindo ao repositório da API responsável pelos dados dos sensores do AquaTank. Esta API é projetada para fornecer informações sobre os sensores do AquaTank, possibilitando a monitoração e análise dos dados coletados.
 
+---
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Caso ainda não tenha, você pode baixá-lo [aqui](https://nodejs.org/en).
+
+---
 
 ## Configuração
 
@@ -12,6 +16,8 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Caso
 2. Abra a pasta no Visual Studio Code (VSCode).
 3. No VSCode, abra o terminal.
 4. Execute o comando `npm install` para instalar as dependências necessárias.
+
+---
 
 ## Executando a API
 
@@ -34,3 +40,17 @@ O gráfico de O2 é mostrado diretamente na sessão de dashboard do site. Um có
 ---
 
 Agora você pode começar a utilizar a API para obter e analisar os dados dos sensores do AquaTank. Divirta-se!
+
+---
+
+# Pessoas desenvolvedoras:
+
+⚠ **Atenção! Esse grupo possui integrantes em salas diversas.** ⚠
+
+|       Aluno       |     Rm     |   Turma   |
+| ----------------- | ---------- | --------- |
+| Gustavo Cristiano |   551924   |   1ESPF   |
+| Luna Gouvea       |   550836   |   1ESPV   |
+| Pedro P. Santos   |   552047   |   1ESPF   |
+| Rony Ken Nagai    |   551549   |   1ESPF   |
+| Tomáz V. Carballo |   551417   |   1ESPF   |
