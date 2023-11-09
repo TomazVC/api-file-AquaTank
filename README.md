@@ -4,7 +4,7 @@ Bem-vindo ao repositório da API responsável pelos dados dos sensores do AquaTa
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Caso ainda não tenha, você pode baixá-lo [aqui]([link](https://nodejs.org/en)).
+Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Caso ainda não tenha, você pode baixá-lo [aqui](https://nodejs.org/en).
 
 ## Configuração
 
