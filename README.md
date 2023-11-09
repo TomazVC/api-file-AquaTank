@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Caso
 Após a conclusão da instalação das dependências, siga estes passos para colocar a API no ar:
 
 1. No terminal do VSCode, execute o comando `node script js`.
-2. A API estará agora disponível para acesso em [http://localhost:3000](http://localhost:3000).
+2. A API estará agora disponível para acesso em http://localhost:3000.
 
 Vale lembrar, para acessar os dados de um sensor específico, basta digitar as seguintes iniciais seguidas de uma barra (`/`) no fim do `http`, como mostrado no exemplo:
 * Exemplo para acessar os dados de temperatura: http://localhost:3000/t
