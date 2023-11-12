@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório da API responsável pelos dados dos sensores do AquaTank. Esta API é projetada para fornecer informações sobre os sensores do AquaTank, possibilitando a monitoração e análise dos dados coletados.
 
+Lembre-se, esse repositório é dedicado para quem possuí o AquaTank em mãos, ou para quem deseja estudar os códigos do funcionamento da API.
+
 ---
 
 ## Pré-requisitos
